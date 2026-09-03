@@ -1,0 +1,6 @@
+.DS_Store
+.env
+my-pass.html
+
+# 주의 git 하기전에 미리 만들어야 한다.
+# git 추적하지 않음
